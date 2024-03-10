@@ -1,15 +1,18 @@
 
 README com enunciados de exercícios, texto das aulas e explicações das atividades.
 
+Professora Mary Lucy
+linkedin: 
+
 ProgramaMatriz - vídeo 1 de 4
-como escrever uma matriz em java
+(como escrever uma matriz em java)
 Desenvolvimento de um programa Java que:
 - Declara variáveis: uma matriz unidimensional (vetor) de 5 posições e uma matriz 2x3 inteiras
 - Coloca ou recebe informações nas matrizes
 - Mostra essas informações
 
 Modularização no Java - vídeo 2 de 4
-como escrever módulos em java
+(como escrever módulos em java)
 Desenvolvimento de um programa Java que:\
 . Declara variáveis: uma matriz unidimensional (vetor) de 5 posições e uma matriz 2x3 inteiras
 . Coloca ou recebe informações nas matrizes

@@ -1,7 +1,8 @@
 //salvar como Prog07.java
+
 import javax.swing.*;
 
-class atividadePratica16Video3de4 
+class exemploEAtividadePratica16Video3de4 
 {
 
   public static void soma () 
@@ -10,7 +11,7 @@ class atividadePratica16Video3de4
 
     for (int i = 0; i<vet.length; i++)
     { 
-      s = s + vet [1];
+      s = s + vet [i];
     }
   
     JOptionPane.showMessageDialog(null, "A somatoria é "+ s);
@@ -21,7 +22,7 @@ class atividadePratica16Video3de4
     int p=1, vet [] = {1, 2, 3, 4, 5};
     for (int i = 0; i<vet.length; i++)
     {
-      p = p * vet [1];
+      p = p * vet [i];
     }
     return p;
   }
@@ -32,7 +33,8 @@ class atividadePratica16Video3de4
 
     soma ();
     r = produto();
-    JOptionPane.showMessageDialog(null, "A produtoria é "+ r); System.exit(0);
+    JOptionPane.showMessageDialog(null, "A produtoria é "+ r); 
+    System.exit(0);
   }
 }
 
