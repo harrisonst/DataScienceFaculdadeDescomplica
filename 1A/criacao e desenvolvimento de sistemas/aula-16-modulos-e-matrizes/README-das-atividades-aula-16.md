@@ -1,8 +1,7 @@
 
 README com enunciados de exercícios, texto das aulas e explicações das atividades.
 
-Professora Mary Lucy
-linkedin: 
+Professora [Lucy Mari Tabuti](https://www.linkedin.com/in/lucymari/).
 
 ProgramaMatriz - vídeo 1 de 4
 (como escrever uma matriz em java)
